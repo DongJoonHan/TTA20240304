@@ -26,3 +26,5 @@ bundle exec rails redmine:plugins:migrate RAILS_ENV=production
 
 ## Agile 
 http://email.redmineup.com/c/eJyEz81q6zAQhuGrkXcnSBqNfhZeHAje9RqMLI0SUUs2ilz38ksglG5Kty8Pw3xxTOgsLAONwnCnhUVjhvuIkLgwCpXRCrQNQTuNnhYC53mybsijRtIL2uSiWvgso0UyIjljFeCimOKNYsmVjv3fI3e6FJ_XYR3vve8M_jM5MTmd53n5ZpewFSanNQeqD5qLr_5GjclJaC4NZzD17Z0qgyt3FrURGBWEpDGYwA0KCjxJkFJ5ExRYJvXRy_zYjhaIwfXN5_pqhWI-CoMrPZ96xeDL7vPteT9uZ103H-d9PW65zj9Zp1b-IGGrnWr_TQ1tXOkze6Z49R_Unru_AgAA__8JWX9q
+
+- 설치방법: https://www.redmineup.com/pages/help/agile/installing-redmine-agile-plugin-on-bitnami-stack?utm_source=Main&utm_medium=email&utm_campaign=Download_plugin_email&utm_term=download_plugin_email&utm_content=installation_guide
