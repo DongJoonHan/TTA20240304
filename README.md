@@ -14,3 +14,12 @@ C:\Bitnami\redmine-4.2.4-0\apps\redmine\htdocs
 ```sh
 cd apps\redmine\htdocs
 ```
+
+# Plugin
+## Issue Template
+- 홈페이지 위치: https://github.com/agileware-jp/redmine_issue_templates
+- 설치 명령
+```sh
+bundle exec rails redmine:plugins:migrate RAILS_ENV=production
+```
+- 명령 실행 후 Redmine 재시작
