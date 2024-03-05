@@ -34,3 +34,5 @@ http://email.redmineup.com/c/eJyEz81q6zAQhuGrkXcnSBqNfhZeHAje9RqMLI0SUUs2ilz38ks
 curl "http://RedmineURL/redmine/issues.json" -X POST --header "Content-Type: application/json" --header "X-Redmine-API-Key: 6c597ababa6fcc69147fba626647c9280c4ecf15" --data-binary "@../redmine_AP.json"
 ```
 
+# Redmine 백업 복원 참조
+https://kmin135.blogspot.com/2017/08/bitnami-redmine.html
