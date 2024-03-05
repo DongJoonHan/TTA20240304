@@ -35,3 +35,12 @@ curl "http://RedmineURL/redmine/issues.json" -X POST --header "Content-Type: app
 
 # Redmine 백업 복원 참조
 https://kmin135.blogspot.com/2017/08/bitnami-redmine.html
+
+# Checksum 확인
+```sh
+certutil -hashfile "파일명" SHA256|MD5
+```
+예
+```sh
+certuil -hashfile junit.jar SHA256
+```
